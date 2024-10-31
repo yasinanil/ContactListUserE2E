@@ -21,4 +21,4 @@ import org.junit.runner.RunWith;
         dryRun = false//If we run as dryrun true, it will not run test but check missing step definitions
 
 )
-public class Runner {}
+public class E2E_Runner {}

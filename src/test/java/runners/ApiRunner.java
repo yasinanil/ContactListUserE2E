@@ -17,8 +17,8 @@ import org.junit.runner.RunWith;
         },
         features = "src/test/resources/features",
         glue = "stepdefinitions",
-        tags = "@End2End",
+        tags = "@Contact",
         dryRun = false//If we run as dryrun true, it will not run test but check missing step definitions
 
 )
-public class Runner {}
+public class ApiRunner {}
